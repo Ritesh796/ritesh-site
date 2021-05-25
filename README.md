@@ -1,2 +1,2 @@
-# ritesh-site
-DEMO
+# ritesh-repo
+ Demo website
